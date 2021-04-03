@@ -1,2 +1,3 @@
 i went to tour
 reset
+git revert
