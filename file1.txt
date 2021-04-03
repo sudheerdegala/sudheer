@@ -1,3 +1,18 @@
 i went to tour
+<<<<<<< HEAD
 reset
+<<<<<<< HEAD
 git revert
+=======
+=======
+>>>>>>> bb9f75e73b100ca6e9fe19c4d093abb664833cb1
+<<<<<<< HEAD
+<<<<<<< HEAD
+changing for reset purpose
+=======
+>>>>>>> 39b8b301112c465039caa66bc9dec207e6847ca8
+
+hard reset
+=======
+>>>>>>> 39b8b301112c465039caa66bc9dec207e6847ca8
+>>>>>>> 802d37355408532fa04c2ef813b0ce59bcb4e4ef
