@@ -1,3 +1,7 @@
 i am fine 
 waht about u
+<<<<<<< HEAD
 reset
+=======
+
+>>>>>>> bb9f75e73b100ca6e9fe19c4d093abb664833cb1
